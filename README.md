@@ -21,35 +21,46 @@
 
 ## About Me
 
-```python
-class TarunA:
-    def __init__(self):
-        self.name = "Tarun A"
-        self.education = "IIT Madras - BS in Data Science"
-        self.location = "Karnataka, India"
-        self.focus = ["IoT", "AI/ML", "Blockchain", "Full-Stack"]
-        self.architecture = "Hardware -> Firmware -> Backend -> AI -> Frontend"
-        self.currently_building = "IoT + Blockchain integrated systems"
-        self.contact = "tarun.tech.bs@gmail.com"
+<div align="center">
 
-    def philosophy(self):
-        return "Engineer systems that bridge the physical and digital world."
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=00F7FF&center=true&vCenter=true&width=760&lines=IIT+Madras+BS+in+Data+Science;Building+IoT+%2B+AI+%2B+Blockchain+systems;Hardware-to-cloud+engineering+mindset;Open+to+collaboration+and+real-world+builds" alt="About me animation"/>
+
+</div>
 
 <table align="center">
   <tr>
-    <td><b>Education</b></td><td>IIT Madras - BS in Data Science</td>
-    <td><b>Strength</b></td><td>End-to-end system design</td>
+    <td><img src="https://img.shields.io/badge/Education-0D1117?style=for-the-badge&logo=google-scholar&logoColor=00F7FF" alt="Education badge"/></td>
+    <td><b>IIT Madras</b> - BS in Data Science</td>
   </tr>
   <tr>
-    <td><b>Location</b></td><td>Karnataka, India</td>
-    <td><b>Focus</b></td><td>Real-world infrastructure engineering</td>
+    <td><img src="https://img.shields.io/badge/Location-0D1117?style=for-the-badge&logo=googlemaps&logoColor=00F7FF" alt="Location badge"/></td>
+    <td>Karnataka, India</td>
   </tr>
   <tr>
-    <td><b>Stack</b></td><td>Hardware + Backend + AI + Web</td>
-    <td><b>Status</b></td><td>Open to collaborations and opportunities</td>
+    <td><img src="https://img.shields.io/badge/Focus-0D1117?style=for-the-badge&logo=target&logoColor=00F7FF" alt="Focus badge"/></td>
+    <td>IoT, AI/ML, Blockchain, and Full-Stack systems</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Architecture-0D1117?style=for-the-badge&logo=buffer&logoColor=00F7FF" alt="Architecture badge"/></td>
+    <td>Hardware -> Firmware -> Backend -> AI -> Frontend</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Currently%20Building-0D1117?style=for-the-badge&logo=rocket&logoColor=00F7FF" alt="Currently building badge"/></td>
+    <td>IoT + Blockchain integrated systems</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=00F7FF" alt="Contact badge"/></td>
+    <td><a href="mailto:tarun.tech.bs@gmail.com">tarun.tech.bs@gmail.com</a></td>
   </tr>
 </table>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Strength-End--to--end%20system%20design-00F7FF?style=flat-square&labelColor=0D1117&color=00F7FF" alt="Strength"/>
+<img src="https://img.shields.io/badge/Mindset-Real--world%20infrastructure%20engineering-00F7FF?style=flat-square&labelColor=0D1117&color=00F7FF" alt="Mindset"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20collaborations-00F7FF?style=flat-square&labelColor=0D1117&color=00F7FF" alt="Status"/>
+
+</div>
 
 ---
 
