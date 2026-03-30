@@ -64,7 +64,7 @@
 
 ---
 
-## Tech Stack
+## Skills Matrix
 
 <div align="center">
 
@@ -102,6 +102,75 @@
 
 ### Cloud and DevOps
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman&theme=dark" alt="Cloud and DevOps" />
+
+### Skills Wall
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets"/>
+  <img src="https://img.shields.io/badge/Microservices-FF6F61?style=flat-square&logo=icloud&logoColor=white" alt="Microservices"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/YOLOv8-00C7B7?style=flat-square&logo=vercel&logoColor=white" alt="YOLOv8"/>
+  <img src="https://img.shields.io/badge/Anomaly_Detection-1E90FF?style=flat-square&logo=databricks&logoColor=white" alt="Anomaly Detection"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-8A2BE2?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision"/>
+  <img src="https://img.shields.io/badge/Data_Pipelines-20B2AA?style=flat-square&logo=apacheairflow&logoColor=white" alt="Data Pipelines"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
+  <img src="https://img.shields.io/badge/FreeRTOS-0E83CD?style=flat-square&logo=freertos&logoColor=white" alt="FreeRTOS"/>
+  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT"/>
+  <img src="https://img.shields.io/badge/BLE-0082FC?style=flat-square&logo=bluetooth&logoColor=white" alt="BLE"/>
+  <img src="https://img.shields.io/badge/RFID%20%2F%20NFC-111111?style=flat-square&logoColor=00F7FF" alt="RFID and NFC"/>
+  <img src="https://img.shields.io/badge/Embedded_Systems-2F4F4F?style=flat-square&logo=platformio&logoColor=white" alt="Embedded Systems"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=bitcoin&logoColor=F7931A" alt="Blockchain"/>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum"/>
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white" alt="Web3.js"/>
+  <img src="https://img.shields.io/badge/Cryptographic_Hashing-4B0082?style=flat-square&logo=letsencrypt&logoColor=white" alt="Cryptographic Hashing"/>
+  <img src="https://img.shields.io/badge/Secure_Transactions-006400?style=flat-square&logo=securityscorecard&logoColor=white" alt="Secure Transactions"/>
+  <img src="https://img.shields.io/badge/System_Design-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white" alt="System Design"/>
+  <img src="https://img.shields.io/badge/API_Design-7B68EE?style=flat-square&logo=swagger&logoColor=white" alt="API Design"/>
+  <img src="https://img.shields.io/badge/Real_Time_Systems-DC143C?style=flat-square&logo=clockify&logoColor=white" alt="Real Time Systems"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
 
 </div>
 
