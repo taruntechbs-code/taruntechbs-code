@@ -34,7 +34,7 @@
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Location-0D1117?style=for-the-badge&logo=googlemaps&logoColor=00F7FF" alt="Location badge"/></td>
-    <td>Karnataka, India</td>
+    <td>Coimbatore, Tamil Nadu, India</td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Focus-0D1117?style=for-the-badge&logo=target&logoColor=00F7FF" alt="Focus badge"/></td>
@@ -195,23 +195,16 @@ Webcam or video input
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=taruntechbs-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&ring_color=00F7FF" height="170" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taruntechbs-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" height="170" alt="Top languages"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=taruntechbs-code&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" width="100%" alt="Contribution graph"/>
 
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=taruntechbs-code&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" width="49%" alt="GitHub streak"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=taruntechbs-code&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" width="49%" alt="Contribution graph"/>
+<img src="https://komarev.com/ghpvc/?username=taruntechbs-code&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=taruntechbs-code&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10" width="100%" alt="GitHub trophies"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/taruntechbs-code/taruntechbs-code/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake"/>
-</div>
+> The snake animation will appear here after the GitHub Action runs successfully and publishes the `output` branch.
 
 ---
 
