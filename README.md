@@ -19,6 +19,82 @@
 
 ---
 
+## `$ ./explore_me.sh`
+
+*Prefer a shell to a bio? Click around.*
+
+<details>
+<summary><code>$ whoami --verbose</code></summary>
+
+```bash
+user        : tarun-a
+role        : ECE undergrad · IoT + AI + Blockchain builder
+location    : Coimbatore, Tamil Nadu, IN
+uptime      : several hackathons and counting
+shell       : probably still compiling
+```
+
+</details>
+
+<details>
+<summary><code>$ cat interests.txt</code></summary>
+
+```bash
+[x] Embedded systems (ESP32, RFID/NFC, sensors)
+[x] Applied ML / computer vision
+[x] Blockchain for real infrastructure, not just tokens
+[x] Turning hackathon weekends into shipped repos
+[ ] Sleep schedule (still compiling)
+```
+
+</details>
+
+<details>
+<summary><code>$ ls -la ./hackathons/</code></summary>
+
+```bash
+drwxr-xr-x  building/     in progress
+drwxr-xr-x  shipped/      see Featured Projects below
+-rw-r--r--  README.md     you are here
+```
+
+</details>
+
+<details>
+<summary><code>$ sudo make me a sandwich</code></summary>
+
+```bash
+[sudo] password for tarun-a:
+Permission denied — try `git commit -m "fed"` instead.
+```
+
+</details>
+
+<details>
+<summary><code>$ ./run_easter_egg.sh</code></summary>
+
+Nice — you actually click things. Most visitors don't get this far.
+
+<details>
+<summary>↳ keep going...</summary>
+
+```bash
+Compiling curiosity.c...
+warning: unused variable 'free_time'
+Build succeeded — 0 errors, 1 caffeine dependency.
+```
+
+<details>
+<summary>↳ one more...</summary>
+
+You've now spent longer exploring this README than most recruiters spend on a resume. Appreciate it — [let's connect](https://www.linkedin.com/in/tarun-a-iitm/).
+
+</details>
+</details>
+</details>
+
+---
+
 ## About Me
 
 <div align="center">
