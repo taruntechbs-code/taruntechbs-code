@@ -89,7 +89,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/YOLOv8-00FFAA?style=for-the-badge&logoColor=black" alt="YOLOv8"/>
+  <img src="https://img.shields.io/badge/YOLOv8-00FFAA?style=for-the-badge" alt="YOLOv8"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
 </p>
 
@@ -131,7 +131,7 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/YOLOv8-00C7B7?style=flat-square&logo=vercel&logoColor=white" alt="YOLOv8"/>
+  <img src="https://img.shields.io/badge/YOLOv8-00C7B7?style=flat-square" alt="YOLOv8"/>
   <img src="https://img.shields.io/badge/Anomaly_Detection-1E90FF?style=flat-square&logo=databricks&logoColor=white" alt="Anomaly Detection"/>
   <img src="https://img.shields.io/badge/Computer_Vision-8A2BE2?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision"/>
   <img src="https://img.shields.io/badge/Data_Pipelines-20B2AA?style=flat-square&logo=apacheairflow&logoColor=white" alt="Data Pipelines"/>
@@ -225,6 +225,23 @@ NFC/RFID card tap
 </details>
 
 <details>
+<summary><b>InstaPay - Full-Stack Fintech Payment Platform</b></summary>
+
+A full-stack payments application supporting peer-to-peer transfers, built on a React frontend backed by a Node.js/Express REST API.
+
+```text
+React frontend
+-> REST API (Node.js / Express)
+-> transaction processing and validation
+-> database persistence
+```
+
+**Tech:** React, Node.js, Express, REST APIs
+
+[GitHub Repo](https://github.com/taruntechbs-code/instapay-fullstack)
+</details>
+
+<details>
 <summary><b>SeismoScope AI - ML-Based Monitoring and Alert System</b></summary>
 
 An intelligent monitoring pipeline using machine learning anomaly detection for real-time seismic or sensor data, producing predictive insights and automated alerts.
@@ -268,12 +285,9 @@ Webcam or video input
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=taruntechbs-code&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" width="49%" alt="GitHub streak"/>
-<img src="https://komarev.com/ghpvc/?username=taruntechbs-code&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=taruntechbs-code&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" width="60%" alt="GitHub streak"/>
 
 </div>
-
-> The snake animation will appear here after the GitHub Action runs successfully and publishes the `output` branch.
 
 ---
 
@@ -325,6 +339,10 @@ Frontend    : React.js, Tailwind, HTML/CSS
 
 <br/><br/>
 
+<img src="https://raw.githubusercontent.com/taruntechbs-code/taruntechbs-code/output/dist/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation"/>
+
+<br/><br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0D1117&height=120&section=footer&text=Engineering+the+Future%2C+One+System+at+a+Time&fontSize=16&fontColor=FFFFFF&fontAlignY=65" width="100%" alt="Footer"/>
 
 </div>
@@ -344,6 +362,8 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: Platane/snk@v3
         with:
