@@ -283,10 +283,6 @@ Webcam or video input
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=taruntechbs-code&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" width="100%" alt="Contribution graph"/>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=taruntechbs-code&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" width="60%" alt="GitHub streak"/>
-
 </div>
 
 ---
